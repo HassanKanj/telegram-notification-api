@@ -37,7 +37,7 @@ Note: The video is in **Arabic**
 
 video link: https://www.youtube.com/watch?v=xYUyZIhAX3M
 
-[![image](https://github.com/HassanKanj/telegram-notification-api/blob/master/documentation/images/video-tutorial.jpg)](https://www.youtube.com/watch?v=xYUyZIhAX3Mr) 
+[![image](https://github.com/HassanKanj/telegram-notification-api/blob/master/documentation/images/video-tutorial.jpg)](https://www.youtube.com/watch?v=xYUyZIhAX3M) 
 
 ## Usage
 
