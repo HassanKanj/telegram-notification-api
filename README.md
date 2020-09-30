@@ -29,6 +29,16 @@ you can think of it as an independent "microservice".
 
 so you basically keep it running, then connect to it from your main app through API requests.
 
+## Video tutorial (in Arabic)
+
+If you prefer to watch a video tutorial instead of reading the documentation, I made a video tutorial about this API
+
+Note: The video is in **Arabic**
+
+video link: https://www.youtube.com/watch?v=xYUyZIhAX3M
+
+[![image](https://github.com/HassanKanj/telegram-notification-api/blob/master/documentation/images/video-tutorial.jpg)](https://www.youtube.com/watch?v=xYUyZIhAX3Mr) 
+
 ## Usage
 
 **Note**: Before you proceed, make sure that `node` and `npm` are installed on your machine.
